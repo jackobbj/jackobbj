@@ -1,7 +1,8 @@
+// By Jack Hodges 31/07/2021
 package LeetCodeProblems.JavaLeet;
 import java.util.HashMap;
 public class TwoSum {
-    /**A Class designed to Solve the Two Sum problem defined as:
+    /**A solution of the Two Sum problem defined as:
      * 
      * "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
      * You may assume that each input would have exactly one solution, and you may not use the same element twice.
