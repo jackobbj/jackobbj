@@ -1,4 +1,5 @@
 //By Jack Hodges 3/08/2021
+//Puzzle Reference:  https://leetcode.com/problems/longest-palindromic-substring/
 package LeetCodeProblems.JavaLeet;
 public class LongestPalindromicSubstring {
     /** A solution for the longest palindromic substring problem defined as:

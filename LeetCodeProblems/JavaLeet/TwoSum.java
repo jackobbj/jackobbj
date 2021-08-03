@@ -1,4 +1,5 @@
 // By Jack Hodges 31/07/2021
+// Puzzle reference: https://leetcode.com/problems/two-sum/
 package LeetCodeProblems.JavaLeet;
 import java.util.HashMap;
 public class TwoSum {
